@@ -12,3 +12,4 @@ hist(Global_active_power,
      xlab = "Global Active Power (kilowatts)",
      breaks = 12, ylim = c(0, 1200))
 dev.off()
+
